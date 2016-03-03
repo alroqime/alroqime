@@ -483,22 +483,25 @@ For managing [@teleseed](https://telegram.me/TeleSeed) on Telegram.
 
 For graphic designs.
 
-[topkecleon](https://github.com/topkecleon)
+[alialroqime](https://github.com/alroqime)
 
 [Juan Potato](https://github.com/JuanPotato)
 
 # Our team!
 
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
+[div_محمد عثمان](https://github.com/alroqime) ([Telegram](https://telegram.me/lmaxbot))
 
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
+[khtym](https://github.com/alroqime) ([Telegram](https://telegram.me/khtym))
 
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
+[norra](https://github.com/alroqime) ([Telegram](https://telegram.me/meneiavi))
 
-[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/Rondoozle))
+[علي عثمان](https://github.com/alroqime) ([Telegram](https://telegram.me/alialroqime))
 
 ###Our Telegram channels:
 
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
+English: [@supergrou](https://telegram.me/supergrou)
 
-Persian: [@IranSeed](https://telegram.me/iranseed)
+arabic: [@adhak2](https://telegram.me/adhak2)
+###our telegram bots:
+arabic: [@alroqimebot](https://telegram.me/alroqimebot)
+arabic: [@lmaxbot](https://telegram.me/lmaxbot)
